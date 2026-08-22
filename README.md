@@ -2,6 +2,14 @@
 
 > 本仓库为项目脱敏展示版，不公开真实标讯、内部筛选标准、账号凭证或公司使用的完整自动化配置。
 
+[在线查看一次真实工作流产出的脱敏简报](https://weisi-song.github.io/tender-intelligence-agent/) · [View the sanitized interactive brief](https://weisi-song.github.io/tender-intelligence-agent/)
+
+![招标信息筛选与分类示例 / Tender filtering and classification example](assets/demo-preview.png)
+
+下面的在线示例来自 2026 年 8 月 6 日的一次实际筛选结果。招标公告、采购单位和原文链接均来自公开信息；使用机构名称及相关识别信息已移除。
+
+The interactive example is based on an actual filtering run from August 6, 2026. Tender notices, buyers, and source links are public; the identity of the organization using the workflow has been removed.
+
 ## 项目背景
 
 公开招标是销售获取项目机会的重要来源。公司过去主要通过招标网站查询信息，最初由我每天人工搜索新标讯，再把可能相关的内容整理后同步给销售跟进。
